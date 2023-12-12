@@ -9,7 +9,9 @@ Each folder in this repository includes specific guides.
 
 ## ⚙ Installing
 
-[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](1. Installing)
+[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](https://goreportcard.com/report/github.com/ewilliams0305/vcli)
+
+[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](https://goreportcard.com/report/github.com/ewilliams0305/vcli)
 
 ## 👥 Contribtion
 
