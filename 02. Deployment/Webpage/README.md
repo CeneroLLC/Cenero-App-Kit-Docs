@@ -1,19 +1,25 @@
-# THING
+# WEBPAGE DEPLOYMENT
 
-![Readme Image](./overview.gif)
+Launch the appkit system utility and select the `Install Appkit Webpage` option.  When prompted enter the IP Address, username, and password for the Crestron processor.
+Ensure 4-Series is checked for 4-Series appliances.  Once installed a new web browser session should open.  **NOTE: Virtual Control Servers and C3C-Nano require no deployment as they already have the appkit webpage pre-loaded to the /var/www/appkit directory**
 
-This is a thing that does a thing, update the description of the thing here.
+![Readme Image](./webpage.gif)
 
-## ⚙ How To 1???
+## Verify Webpage
 
-![Readme Image](./how_1.gif)
+Sign into the webpage session using the crestron processors credentials.  Once signed into the processor you **should** be redirected.  I say should as several version of crestron firmware *didn't* properly redirect users.  If your not redirected proceed to *https://[PROCESSOR IP]/appkit/index.html*.  If no appkit application is currently running you should see the *system unreachable* dialog.  That's `OK` and the webpage has been properly deployed.
 
-## ⚙ How To 2???
+![Readme Image](./verify.gif)
 
-![Readme Image](./how_2.gif)
+## Access Webpage
 
-## ⚙ How To 3???
+When the webpage loads a system settings dialog will be displayed.  This dialog is required as the web page loaded in the browser session doesn't know anything about the server *i.e. Crestron Processor*.  Fill out the form to match your system's confguration.  Options are:
 
-![Readme Image](./how_3.gif)
+![Https](https://img.shields.io/badge/HTTPS-blue) typically 100% of all systems should be https as of making this document
+![Virtual Control](https://img.shields.io/badge/VIRTUAL-CONTROL-yellow) check this box for all VC4 systems
+![Room ID](https://img.shields.io/badge/ROOM-ID-yellow) typically 100% of all systems should be https as of making this document
+![3-Series](https://img.shields.io/badge/3-SERIES-blue) Check if the control system is a 3-Series processor
+![USERNAME](https://img.shields.io/badge/USERNAME-red) Only required for 3-series
+![PASSWORD](https://img.shields.io/badge/PASSWORD-red) Only required for 3-series
 
-## ⚙ How To D???
+![Readme Image](./systemdialog.gif)
