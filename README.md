@@ -9,9 +9,9 @@ Each folder in this repository includes specific guides.
 
 ## ⚙ Installing
 
-[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](https://goreportcard.com/report/github.com/ewilliams0305/vcli)
+[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/1.%20Installing)
 
-[![Install](https://img.shields.io/badge/LOAD-PROGRAMS-blue)](https://goreportcard.com/report/github.com/ewilliams0305/vcli)
+
 
 ## 👥 Contribtion
 
