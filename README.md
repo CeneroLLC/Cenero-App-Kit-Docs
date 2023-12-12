@@ -3,13 +3,35 @@
 The docs, you know those things you've been looking for!  This is public repository containing no propietary or secure information intended to provide use guides for Cenero Appkit configurations, programming, and builds or CICD
 This repository includes quick user guides for configuring appkit systems, contrubiting, and installation.
 
+Cenero appkit is a framework that leverages the Crestron SIMPL Sharp SDK.  Cenero appkit consists of a web based user interface for system configuration and diagnostics, driver framework for creating plugins, and SIMPL windows and Simpl Sharp libraries. 
+
 Each folder in this repository includes specific guides.
 
 ![Readme Image](./home.gif)
 
 ## ⚙ Installing
 
+Appkit is delivered via an msi installer.  Directions here
+
 [![Install](https://img.shields.io/badge/HOW-INSTALL-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/01.%20Installing)
+
+## 🚀 Deployment
+
+Appkit requires a web interface.  This interface needs to be deployed onto Crestron processors.  The appkit utility was created to make this just a little bit easier.  
+
+[![Deployment](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment)
+
+### 🚗 Web UI
+
+Appkit uses a plugin framework for device drivers. See below
+
+[![WEBPAGE](https://img.shields.io/badge/HOW-WEBPAGE-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Webpage)
+
+### 🚗 Drivers
+
+Appkit uses a plugin framework for device drivers. See below
+
+[![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Drivers)
 
 
 ## 👥 Contribtion

@@ -1,19 +1,17 @@
-# THING
+# DEPLOYMENT
+
+To begin a new deployment navigate to the appkit installation directory.  If left default this will typically be located at *C:\Program Files (x86)\Cenero LLC\Cenero AppKit*
 
 ![Readme Image](./overview.gif)
 
-This is a thing that does a thing, update the description of the thing here.
+## Install Web Page
 
-## ⚙ How To 1???
+[![Web Page](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/Webpage)
 
-![Readme Image](./how_1.gif)
+## Install Drivers
 
-## ⚙ How To 2???
+[![Drivers](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/Drivers)
 
-![Readme Image](./how_2.gif)
+## Backup && Restore
 
-## ⚙ How To 3???
-
-![Readme Image](./how_3.gif)
-
-## ⚙ How To D???
+[![Backup](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/Backup)
