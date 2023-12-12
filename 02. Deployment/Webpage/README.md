@@ -31,7 +31,7 @@ When the webpage loads a system settings dialog will be displayed.  This dialog 
 
 ## 🔐 Upgrading Access to Admin
 
-Once loaded *assuming your code is actually running (see programming tutorials for more info, just go with it)* you can now access the webpage 🎉 When the web page loads by default you will be restricted as an operator.  To actually make system changes you will need to sign into the web page as an administrator.
+Once loaded *assuming your code is actually running (see programming tutorials for more info, just go with it)* you can now access the webpage 🎉 When the web page loads by default you will be restricted as an operator.  To actually make system changes you will need to sign into the web page as an administrator.  Use the super secrete and always annoying admin 🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌🍌 password.  Contact your techincal team lead if you need password information.
 
 ![Readme Image](./admin.gif)
 
