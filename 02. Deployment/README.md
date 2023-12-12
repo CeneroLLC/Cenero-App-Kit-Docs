@@ -1,6 +1,7 @@
 # DEPLOYMENT
 
 To begin a new deployment navigate to the appkit installation directory.  If left default this will typically be located at *C:\Program Files (x86)\Cenero LLC\Cenero AppKit*
+Right click on the `Appkit System Utility` shortcut and **RUN AS ADMIN**, yeah this must be run **AS ADMIN**, yes **AS ADMIN**
 
 ![Readme Image](./overview.gif)
 
