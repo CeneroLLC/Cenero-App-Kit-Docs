@@ -1,4 +1,4 @@
-# TINSTALLING CENERO APPKIT
+# INSTALLING CENERO APPKIT
 
 All Cenero appkit binaries and files are distubuted through an installer located on the programming disc.  To begin installation proceed to:
 
