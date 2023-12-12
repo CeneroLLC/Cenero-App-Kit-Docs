@@ -16,10 +16,15 @@ Sign into the webpage session using the crestron processors credentials.  Once s
 When the webpage loads a system settings dialog will be displayed.  This dialog is required as the web page loaded in the browser session doesn't know anything about the server *i.e. Crestron Processor*.  Fill out the form to match your system's confguration.  Options are:
 
 ![Https](https://img.shields.io/badge/HTTPS-blue) typically 100% of all systems should be https as of making this document
+
 ![Virtual Control](https://img.shields.io/badge/VIRTUAL-CONTROL-yellow) check this box for all VC4 systems
+
 ![Room ID](https://img.shields.io/badge/ROOM-ID-yellow) typically 100% of all systems should be https as of making this document
+
 ![3-Series](https://img.shields.io/badge/3-SERIES-blue) Check if the control system is a 3-Series processor
+
 ![USERNAME](https://img.shields.io/badge/USERNAME-red) Only required for 3-series
+
 ![PASSWORD](https://img.shields.io/badge/PASSWORD-red) Only required for 3-series
 
 ![Readme Image](./systemdialog.gif)
