@@ -1,8 +1,8 @@
-# THING
+# TINSTALLING CENERO APPKIT
 
 All Cenero appkit binaries and files are distubuted through an installer located on the programming disc.  To begin installation proceed to:
 
-[![Install](https://img.shields.io/badge/P:-Appkit-blue)](P:\Programming\01. Appkit - SIMPL# Framework)
+![Install](https://img.shields.io/badge/P:-Appkit-blue) *P:\Programming\01. Appkit - SIMPL# Framework*
 
 ## 📩 Download
 
