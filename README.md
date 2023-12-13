@@ -33,9 +33,7 @@ Appkit uses a plugin framework for device drivers. See below
 
 [![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Drivers)
 
-
-## 👥 Contribtion
-
+## 👥 Contribtion (Not Created)
 
 ## 🎶 Conductor
 
