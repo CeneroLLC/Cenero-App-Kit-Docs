@@ -48,7 +48,7 @@ Appkit uses a plugin framework for device drivers. See below
 ## 🔉 Audio Factory
 
 
-[![Audio Factory](https://img.shields.io/badge/HOW-AUDIO-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/11.%20Audio%20Factory)
+[![Audio Factory](https://img.shields.io/badge/HOW-AUDIO-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/11.%20Audio%20Factory/README.md)
 
 ## 🎥 Camera Factory
 
