@@ -13,13 +13,13 @@ Each folder in this repository includes specific guides.
 
 Appkit is delivered via an msi installer.  Directions here
 
-[![Install](https://img.shields.io/badge/HOW-INSTALL-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/01.%20Installing)
+[![Install](https://img.shields.io/badge/HOW-INSTALL-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/01.%20Installing/README.md)
 
 ## 🚀 Deployment
 
 Appkit requires a web interface.  This interface needs to be deployed onto Crestron processors.  The appkit utility was created to make this just a little bit easier.  
 
-[![Deployment](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment)
+[![Deployment](https://img.shields.io/badge/HOW-DEPLOY-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/README.md)
 
 ### 🚗 Web UI
 
@@ -32,6 +32,12 @@ Appkit uses a plugin framework for device drivers. See below
 Appkit uses a plugin framework for device drivers. See below
 
 [![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/Drivers/README.md)
+
+### 🏛️ Backup
+
+Appkit uses a plugin framework for device drivers. See below
+
+[![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/02.%20Deployment/Backup/README.md)
 
 ## 👥 Contribtion (Not Created)
 
