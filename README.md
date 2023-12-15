@@ -25,13 +25,13 @@ Appkit requires a web interface.  This interface needs to be deployed onto Crest
 
 Appkit uses a plugin framework for device drivers. See below
 
-[![WEBPAGE](https://img.shields.io/badge/HOW-WEBPAGE-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Webpage)
+[![WEBPAGE](https://img.shields.io/badge/HOW-WEBPAGE-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Webpage/README.md)
 
 ### 🚗 Drivers
 
 Appkit uses a plugin framework for device drivers. See below
 
-[![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Drivers)
+[![Drivers](https://img.shields.io/badge/HOW-DRIVERS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/03.%20Deployment/Drivers/README.md)
 
 ## 👥 Contribtion (Not Created)
 
