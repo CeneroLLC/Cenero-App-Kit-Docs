@@ -47,16 +47,13 @@ Appkit uses a plugin framework for device drivers. See below
 
 ## 🔉 Audio Factory
 
-
 [![Audio Factory](https://img.shields.io/badge/HOW-AUDIO-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/11.%20Audio%20Factory/README.md)
 
 ## 🎥 Camera Factory
 
-
 [![Camera Factory](https://img.shields.io/badge/HOW-CAMERAS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Camera%20Factory)
 
 ## 📺 Display Factory
-
 
 [![Display-Factory](https://img.shields.io/badge/HOW-Display-Factory-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Display-Factory)
 
@@ -66,14 +63,18 @@ Appkit uses a plugin framework for device drivers. See below
 
 ## 📼 NVX Producer
 
-
 [![NVX](https://img.shields.io/badge/HOW-NVX-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20NVX)
 
 ## 🔕 Proactive
-
 
 [![Proactive](https://img.shields.io/badge/HOW-Proactive-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Proactive)
 
 ## 🐜 Debugging
 
 [![Debugging](https://img.shields.io/badge/HOW-Debugging-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Debugging)
+
+## 🕺 Meet the Team
+
+Create a pull request adding your name to the list of contributors below followed by brief message
+
+- [] Name / Message
