@@ -77,3 +77,6 @@ Create a pull request adding your name to the list of contributors below followe
 
 - Name / Message
 - John Taylor / Testing Testing 1 2 3
+- Trevor Payne / I Did this - Testing
+- Joe Dye / Adding my name
+- Paul Vail (bmxtrix) / Adding my name to this
