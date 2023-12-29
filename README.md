@@ -78,4 +78,4 @@ Create a pull request adding your name to the list of contributors below followe
 - Name / Message
 - Trevor Payne / I Did this - Testing
 - Joe Dye / Adding my name
-
+- Paul Vail (bmxtrix) / Adding my name to this
