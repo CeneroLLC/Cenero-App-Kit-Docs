@@ -76,6 +76,6 @@ Appkit uses a plugin framework for device drivers. See below
 Create a pull request adding your name to the list of contributors below followed by brief message
 
 - Name / Message
-- Trevor Payne / I Did this - Testing
+- Trevor Payne / I Did this - Testing - With the team
 - Joe Dye / Adding my name
 
