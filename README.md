@@ -79,4 +79,5 @@ Create a pull request adding your name to the list of contributors below followe
 - Trevor Payne / I Did this - Testing
 - Joe Dye / Adding my name
 - Jason Crump / Testing this out
+- Paul Vail (bmxtrix) / Adding my name to this
 
