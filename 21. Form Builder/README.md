@@ -15,7 +15,7 @@
 
 ## Overview
 
-FormBuilder can be used to create forms in the appkit web UI.  These forms can be used to gather structured data from the web UI and pass it into the program.  Forms can be created by adding combinations of FormBuilder modules to a program.
+FormBuilder can be used to create forms in the appkit web UI.  These forms can be used to gather structured data from the web UI and pass it into a program.
 
 ## Compatibility
 
@@ -23,9 +23,11 @@ Cenero AppKit v1.9.0 and up
 
 ## SIMPL Windows Modules
 
-A suite of SIMPL Windows modules is provided to facilitate the creation of custom forms.  These modules are divided into two categories:
+A suite of SIMPL Windows modules is provided to facilitate the creation of custom forms.
 
 ![Readme Image](./formbuilder-module-suite.JPG)
+
+These modules are divided into two categories:
 
 - [Form Definition Modules](#form-definition-modules)
 - [Form Handler Modules](#form-handler-modules)
