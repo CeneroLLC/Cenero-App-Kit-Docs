@@ -77,7 +77,7 @@ Parameters
 
 The example below shows what this SelectField would look like in the Event Scheduler web UI:
 
-![Readme Image](./formbuilder-selectfield-web-example.GIF)
+![Readme Image](./formbuilder-selectfield-web-example.gif)
 
 #### Cenero.Appkit FormBuilder TextField
 
@@ -96,7 +96,7 @@ Parameters
 
 The example below shows what the text field would look like in the web UI:
 
-![Readme Image](./formbuilder-textfield-web-example.GIF)
+![Readme Image](./formbuilder-textfield-web-example.gif)
 
 ### Form Handler Modules
 
