@@ -51,6 +51,10 @@ Appkit uses a plugin framework for device drivers. See below
 
 [![Camera Factory](https://img.shields.io/badge/HOW-CAMERAS-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Camera%20Factory)
 
+## 📃 Form Builder
+
+[![Form Builder](https://img.shields.io/badge/HOW-Form-Builder-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/21.%20Form%20Builder/README.md)
+
 ## 📺 Display Factory
 
 [![Display-Factory](https://img.shields.io/badge/HOW-Display-Factory-blue)](https://github.com/CeneroLLC/Cenero-App-Kit-Docs/tree/main/10.%20Display-Factory)
